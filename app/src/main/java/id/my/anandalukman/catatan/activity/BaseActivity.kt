@@ -1,4 +1,4 @@
-package id.my.anandalukman.catatan
+package id.my.anandalukman.catatan.activity
 
 import android.content.pm.ActivityInfo
 import androidx.appcompat.app.AppCompatActivity
